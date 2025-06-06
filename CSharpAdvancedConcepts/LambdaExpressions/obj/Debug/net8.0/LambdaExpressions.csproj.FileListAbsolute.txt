@@ -1,0 +1,14 @@
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.exe
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.deps.json
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.runtimeconfig.json
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\bin\Debug\net8.0\LambdaExpressions.pdb
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfoInputs.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.AssemblyInfo.cs
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\refint\LambdaExpressions.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.pdb
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\LambdaExpressions.genruntimeconfig.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\LambdaExpressions\obj\Debug\net8.0\ref\LambdaExpressions.dll

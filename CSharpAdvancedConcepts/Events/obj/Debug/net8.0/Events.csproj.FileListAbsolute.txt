@@ -1,0 +1,14 @@
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\bin\Debug\net8.0\Events.exe
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\bin\Debug\net8.0\Events.deps.json
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\bin\Debug\net8.0\Events.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\bin\Debug\net8.0\Events.pdb
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\Events.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\refint\Events.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\Events.pdb
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\Events\obj\Debug\net8.0\ref\Events.dll

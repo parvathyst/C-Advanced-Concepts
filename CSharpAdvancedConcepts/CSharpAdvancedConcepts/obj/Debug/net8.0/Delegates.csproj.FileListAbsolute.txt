@@ -1,0 +1,14 @@
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\bin\Debug\net8.0\Delegates.exe
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\bin\Debug\net8.0\Delegates.deps.json
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\bin\Debug\net8.0\Delegates.runtimeconfig.json
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\bin\Debug\net8.0\Delegates.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\bin\Debug\net8.0\Delegates.pdb
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\Delegates.AssemblyInfoInputs.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\Delegates.AssemblyInfo.cs
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\Delegates.csproj.CoreCompileInputs.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\Delegates.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\refint\Delegates.dll
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\Delegates.pdb
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\Delegates.genruntimeconfig.cache
+D:\ASP.Net Self Learning\C# Advanced Concepts\CSharpAdvancedConcepts\CSharpAdvancedConcepts\obj\Debug\net8.0\ref\Delegates.dll
